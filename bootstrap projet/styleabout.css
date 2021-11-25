@@ -1,0 +1,88 @@
+body{
+
+}
+.carousel-slide{
+    width: 1000px;
+    height: 250px;
+}
+.carousel-caption h2{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+    font-size:40px;
+    text-shadow: 5px 5px 5px rgb(12, 1, 15);
+    color:white ;
+    border-bottom: white 1px solid;
+
+}
+.carousel-caption p{
+    font-family: 'Courier New', Courier, monospace;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #fdb82d;
+    text-shadow: 5px 5px 5px rgb(12, 1, 15);
+}
+.navbar{
+    height: 50px;
+}
+.first{
+    height: 800px;
+}
+.aditi{
+    margin-top: 12px;
+    background: #fdb82d;
+}
+.aditi img{
+    width: 400px;
+    height: 500px;
+}
+.singh{
+    padding: 20px 0;
+    background: rgb(224, 132, 224);
+    
+}
+.box{
+    padding:50px;
+    margin:10px;
+    background: white;
+    width: 240px;
+    height: 230px;
+   
+    display: block;
+   
+  
+}
+/*.box img{
+    height: 230px;
+    width: 240px;
+}*/
+.singh1{
+    padding: 20px 0;
+    background: rgb(66, 77, 221);
+    
+}
+.box1{
+    padding:50px;
+    margin:10px;
+    background: rgb(233, 93, 93);
+    width: 240px;
+    height: 230px;
+   
+    display: block;
+   
+  
+}
+.gap{
+    padding: 0 40px;
+    display: block;
+}
+.fonta:hover{
+    color: #7d2dfd;
+}
+.fonta{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    
+    background: #fdb82d;
+}
+
+
